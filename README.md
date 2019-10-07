@@ -8,6 +8,7 @@ Blog
 * bcho - https://bcho.tistory.com/category/클라우드%20컴퓨팅%20%26%20NoSQL/도커%20%26%20쿠버네티스?page=3
 * https://ssup2.github.io/theory_analysis/Kubernetes_Pod/
 * https://blog.2dal.com
+* https://zzsza.github.io/development/2018/04/17/docker-kubernetes/
 
 Exam
   * https://coffeewhale.com/kubernetes/cka/2019/01/13/cak/
