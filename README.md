@@ -19,3 +19,4 @@ etc
  * https://morioh.com/p/ecb38c8342ba?fbclid=IwAR3dQibCPSDJBt0uj6QHWVVNa-6gbN6gZtypsRungwCmrfw1ad4Yn_hV494
  * https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/
  * https://dailyhotel.io/kubernetes-운영-17개월의-성과와-교훈-adf716bd72b1 
+ * https://eksworkshop.com/?fbclid=IwAR1wumLElf-XXkG0tkvjurd186DTJx6dLtBYnzAjChAkh5cxuXgf_ekW0mA
