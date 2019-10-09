@@ -22,3 +22,4 @@
  * https://eksworkshop.com/?fbclid=IwAR1wumLElf-XXkG0tkvjurd186DTJx6dLtBYnzAjChAkh5cxuXgf_ekW0mA
  * https://tech.kakao.com/2018/12/24/kubernetes-deploy/
  * k3s https://k3s.io
+ * knative 101 https://developer.ibm.com/tutorials/knative-101-labs/?cm_mmc=OSocial_Twitter-_-Developer_IBM+Developer-_-WW_WW-_-ibmdev-&cm_mmca1=000037FD&cm_mmca2=10010797&linkId=74007499
