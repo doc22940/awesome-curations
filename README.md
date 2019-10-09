@@ -1,6 +1,7 @@
 강의
-* https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=162 
-* https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTu31zyb_QelQMaqFGgASA 
+* 컨테이너 기반 가상화 플랫폼 ‘도커(Doker)’의 이해 https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=125
+* 컨테이너 오케스트레이션 쿠버네티스 살펴보기 https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=162 
+* 컨테이너 오케스트레이션 쿠버네티스 살펴보기(YouTube) https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTu31zyb_QelQMaqFGgASA 
 * https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/ 
 
 블로그
