@@ -21,3 +21,4 @@
  * https://dailyhotel.io/kubernetes-운영-17개월의-성과와-교훈-adf716bd72b1 
  * https://eksworkshop.com/?fbclid=IwAR1wumLElf-XXkG0tkvjurd186DTJx6dLtBYnzAjChAkh5cxuXgf_ekW0mA
  * https://tech.kakao.com/2018/12/24/kubernetes-deploy/
+ * k3s https://k3s.io
