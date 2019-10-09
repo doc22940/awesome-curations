@@ -6,6 +6,10 @@
   * YouTube https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTu31zyb_QelQMaqFGgASA 
 * Certified Kubernetes Administrator (CKA) with Practice Tests
   * https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/ 
+* Scalable Microservices with Kubernetes
+  * https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+* Kubernetes Official Tutorial
+  * https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
 블로그
 * Subicura - https://subicura.com/2019/05/19/kubernetes-basic-1.html
