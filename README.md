@@ -36,3 +36,4 @@
  * k9s https://github.com/derailed/k9s
  * knative 101 https://developer.ibm.com/tutorials/knative-101-labs/?cm_mmc=OSocial_Twitter-_-Developer_IBM+Developer-_-WW_WW-_-ibmdev-&cm_mmca1=000037FD&cm_mmca2=10010797&linkId=74007499
  * https://landscape.cncf.io
+ * 레딧 https://www.reddit.com/r/kubernetes/
