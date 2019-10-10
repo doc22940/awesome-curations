@@ -1,4 +1,6 @@
 강의
+* The Illustrated Children’s Guide to Kubernetes
+  * https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/
 * 컨테이너 기반 가상화 플랫폼 ‘도커(Doker)’의 이해
   * https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=125
 * 컨테이너 오케스트레이션 쿠버네티스 살펴보기
@@ -32,3 +34,4 @@
  * https://tech.kakao.com/2018/12/24/kubernetes-deploy/
  * k3s https://k3s.io
  * knative 101 https://developer.ibm.com/tutorials/knative-101-labs/?cm_mmc=OSocial_Twitter-_-Developer_IBM+Developer-_-WW_WW-_-ibmdev-&cm_mmca1=000037FD&cm_mmca2=10010797&linkId=74007499
+ * https://landscape.cncf.io
