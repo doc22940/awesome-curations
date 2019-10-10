@@ -39,3 +39,5 @@
  * https://landscape.cncf.io
  * 레딧 https://www.reddit.com/r/kubernetes/
  * [SparkEverywhere-DCOS-K8S](https://github.com/minyk/presentations/blob/master/The-Next-Revolution-Day-2019-10-08/SparkEverywhere-DCOS-K8S.pdf?fbclid=IwAR1jnVFltrjovWN-roGtJwJsbykxqOFYOmB88jOurDiMNiZnQ0ZKy600cJI)
+
+ * https://www.gangboard.com/blog/kubernetes-interview-questions-and-answers/?fbclid=IwAR0AHzZ_L30ZgOydnXDBKkFUYD385cTPsfCxm2Ufb2hf-TQzceWqFu8Tr4I
