@@ -1,7 +1,7 @@
 강의
-* The Illustrated Children’s Guide to Kubernetes  
+* The Illustrated Children’s Guide to Kubernetes 🇺🇸
   * https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/
-* 컨테이너 기반 가상화 플랫폼 ‘도커(Doker)’의 이해
+* 컨테이너 기반 가상화 플랫폼 ‘도커(Doker)’의 이해 🇰🇷
   * https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=125
 * 컨테이너 오케스트레이션 쿠버네티스 살펴보기
   * https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=162 
