@@ -21,11 +21,13 @@
 * https://blog.2dal.com
 * https://zzsza.github.io/development/2018/04/17/docker-kubernetes/
 
-시험후기
+CKA
   * https://coffeewhale.com/kubernetes/cka/2019/01/13/cak/
   * https://blog.dudaji.com/kubernetes/2019/06/24/cka-acceptance-review-soonbee.html
   * https://chhanz.github.io/linux/2019/09/30/cka-exam-review/
   * https://www.notion.so/CKA-CKAD-d3beefd142db4cd48b60806eab30bdd8
+  * https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+  * [CKAD](https://github.com/dgkanatsios/CKAD-exercises)
 
 기타
  * https://morioh.com/p/ecb38c8342ba?fbclid=IwAR3dQibCPSDJBt0uj6QHWVVNa-6gbN6gZtypsRungwCmrfw1ad4Yn_hV494
