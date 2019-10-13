@@ -50,3 +50,4 @@ CKA
 
 
  * https://ddii.dev/tools/vscode-server/#
+ * https://www.magalix.com/blog/the-best-kubernetes-tutorials
