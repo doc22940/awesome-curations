@@ -51,3 +51,4 @@ CKA
 
  * https://ddii.dev/tools/vscode-server/#
  * https://www.magalix.com/blog/the-best-kubernetes-tutorials
+ * https://porthit.com/kubectl-cheat-sheet-1/?fbclid=IwAR0rWEMwrlS_uQJT7o4G222yQzBdSZS5puvQQVNLJhOX79gmn1AH2eXDPYo
