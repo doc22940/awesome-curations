@@ -48,6 +48,7 @@ CKA
  * https://www.gangboard.com/blog/kubernetes-interview-questions-and-answers/?fbclid=IwAR0AHzZ_L30ZgOydnXDBKkFUYD385cTPsfCxm2Ufb2hf-TQzceWqFu8Tr4I
  * [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-마이크로서비스-아키텍처-회고?utm_source=gaer)
 
+ * [MicroK8s](https://microk8s.io)
 
  * https://ddii.dev/tools/vscode-server/#
  * https://www.magalix.com/blog/the-best-kubernetes-tutorials
