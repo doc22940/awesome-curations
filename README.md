@@ -20,6 +20,7 @@
 * https://ssup2.github.io/theory_analysis/Kubernetes_Pod/
 * https://blog.2dal.com
 * https://zzsza.github.io/development/2018/04/17/docker-kubernetes/
+* https://lascrea.tistory.com/category/Kubernetes
 
 CKA
   * https://coffeewhale.com/kubernetes/cka/2019/01/13/cak/
