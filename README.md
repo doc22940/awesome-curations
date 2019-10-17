@@ -54,7 +54,7 @@ CKA
  * https://www.magalix.com/blog/the-best-kubernetes-tutorials
  * https://porthit.com/kubectl-cheat-sheet-1/?fbclid=IwAR0rWEMwrlS_uQJT7o4G222yQzBdSZS5puvQQVNLJhOX79gmn1AH2eXDPYo
  * [Kubernetes: Persistent Volume For Beginners:](https://medium.com/@muneeburrehman2610/kubernetes-persistent-volume-for-beginners-a13cbe5bdeea)
-
+ * [Podman](https://medium.com/@ganeshmani009/replacing-docker-with-podman-power-of-podman-cloudnweb-23cfb7541538)
  * https://www.kubeflow.org/docs/azure/deploy/?fbclid=IwAR2eCcQT3Vsz-_epWKTZnBLeY4rUPpS8NHEzlG8MBkQZgbfcJcH59evOOts
 
 Kubeflow
@@ -63,3 +63,5 @@ Kubeflow
 
 Security
  * Kubesec https://kubesec.io
+ 
+ 
