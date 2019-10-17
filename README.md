@@ -59,6 +59,7 @@ CKA
 
 Kubeflow
  * https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/
+ * https://youtu.be/szygR7G3ZY8
 
 Security
  * Kubesec https://kubesec.io
