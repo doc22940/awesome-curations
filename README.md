@@ -21,6 +21,7 @@
 * https://blog.2dal.com
 * https://zzsza.github.io/development/2018/04/17/docker-kubernetes/
 * https://lascrea.tistory.com/category/Kubernetes
+* https://learnk8s.io/blog/
 
 CKA
   * https://coffeewhale.com/kubernetes/cka/2019/01/13/cak/
