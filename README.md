@@ -1,4 +1,5 @@
-강의
+Lectures
+----
 * The Illustrated Children’s Guide to Kubernetes 🇺🇸
   * https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/
 * [Quick guide to Kubernetes basics from IBM](https://www.ibm.com/cloud/learn/kubernetes) 🇺🇸
@@ -14,7 +15,8 @@
 * Kubernetes Official Tutorial 🇺🇸
   * https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
-블로그
+Blogs
+----
 * Subicura - https://subicura.com/2019/05/19/kubernetes-basic-1.html
 * bcho - https://bcho.tistory.com/category/클라우드%20컴퓨팅%20%26%20NoSQL/도커%20%26%20쿠버네티스?page=3
 * https://ssup2.github.io/theory_analysis/Kubernetes_Pod/
@@ -24,6 +26,7 @@
 * https://learnk8s.io/blog/
 
 CKA
+----
   * https://coffeewhale.com/kubernetes/cka/2019/01/13/cak/
   * https://blog.dudaji.com/kubernetes/2019/06/24/cka-acceptance-review-soonbee.html
   * https://chhanz.github.io/linux/2019/09/30/cka-exam-review/
@@ -31,7 +34,8 @@ CKA
   * https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
   * [CKAD](https://github.com/dgkanatsios/CKAD-exercises)
 
-기타
+ETC
+----
  * https://morioh.com/p/ecb38c8342ba?fbclid=IwAR3dQibCPSDJBt0uj6QHWVVNa-6gbN6gZtypsRungwCmrfw1ad4Yn_hV494
  * https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/
  * https://dailyhotel.io/kubernetes-운영-17개월의-성과와-교훈-adf716bd72b1 
@@ -43,15 +47,12 @@ CKA
  * https://landscape.cncf.io
  * 레딧 https://www.reddit.com/r/kubernetes/
  * [SparkEverywhere-DCOS-K8S](https://github.com/minyk/presentations/blob/master/The-Next-Revolution-Day-2019-10-08/SparkEverywhere-DCOS-K8S.pdf?fbclid=IwAR1jnVFltrjovWN-roGtJwJsbykxqOFYOmB88jOurDiMNiZnQ0ZKy600cJI)
-
+Operators and Controllers, What is the Difference?
  * https://www.gangboard.com/blog/kubernetes-interview-questions-and-answers/?fbclid=IwAR0AHzZ_L30ZgOydnXDBKkFUYD385cTPsfCxm2Ufb2hf-TQzceWqFu8Tr4I
-
  * https://tech.osci.kr/authors/chhan/
  * https://www.gangboard.com/blog/kubernetes-interview-questions-and-answers/?fbclid=IwAR0AHzZ_L30ZgOydnXDBKkFUYD385cTPsfCxm2Ufb2hf-TQzceWqFu8Tr4I
  * [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-마이크로서비스-아키텍처-회고?utm_source=gaer)
-
  * [MicroK8s](https://microk8s.io)
-
  * https://ddii.dev/tools/vscode-server/#
  * https://www.magalix.com/blog/the-best-kubernetes-tutorials
  * https://porthit.com/kubectl-cheat-sheet-1/?fbclid=IwAR0rWEMwrlS_uQJT7o4G222yQzBdSZS5puvQQVNLJhOX79gmn1AH2eXDPYo
@@ -59,17 +60,14 @@ CKA
  * [Podman](https://medium.com/@ganeshmani009/replacing-docker-with-podman-power-of-podman-cloudnweb-23cfb7541538)
  * https://medium.com/cri-o/introducing-kpod-f06109b96374
  * https://www.kubeflow.org/docs/azure/deploy/?fbclid=IwAR2eCcQT3Vsz-_epWKTZnBLeY4rUPpS8NHEzlG8MBkQZgbfcJcH59evOOts
+ * https://vmware.github.io/vsphere-storage-for-kubernetes/documentation/
 
+AI/ML
+----
 Kubeflow
  * https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/
  * https://youtu.be/szygR7G3ZY8
 
 Security
- * Kubesec https://kubesec.io
- 
-
-* https://vmware.github.io/vsphere-storage-for-kubernetes/documentation/
- 
-Articles
 ----
- * [Operators and Controllers, What is the Difference?](http://news.kubernauts.io/?read=https%3A%2F%2Foctetz.com%2Fposts%2Fk8s-controllers-vs-operators)
+ * Kubesec https://kubesec.io
