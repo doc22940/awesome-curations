@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Lectures
 ----
 * The Illustrated Children’s Guide to Kubernetes 🇺🇸
