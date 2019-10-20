@@ -80,6 +80,10 @@ Storage
  * https://rook.io
  * https://vmware.github.io/vsphere-storage-for-kubernetes/documentation/
 
+OpenShift
+----
+ * https://blog.openshift.com/openshift-commons-gathering-in-milan-2019-recap-slides/
+
 ETC
 ----
  * https://github.com/netdata/netdata
