@@ -24,6 +24,7 @@ Blogs
 * https://zzsza.github.io/development/2018/04/17/docker-kubernetes/
 * https://lascrea.tistory.com/category/Kubernetes
 * https://learnk8s.io/blog/
+* https://zzsza.github.io
 
 CKA
 ----
