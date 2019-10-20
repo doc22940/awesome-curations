@@ -1,5 +1,9 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+작성 원칙
+----
+ * 없음
+
 Lectures
 ----
 * The Illustrated Children’s Guide to Kubernetes 🇺🇸
@@ -73,3 +77,8 @@ Kubeflow
 Security
 ----
  * Kubesec https://kubesec.io
+
+
+ETC
+----
+ * https://github.com/netdata/netdata
