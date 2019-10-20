@@ -66,7 +66,6 @@ Operators and Controllers, What is the Difference?
  * [Podman](https://medium.com/@ganeshmani009/replacing-docker-with-podman-power-of-podman-cloudnweb-23cfb7541538)
  * https://medium.com/cri-o/introducing-kpod-f06109b96374
  * https://www.kubeflow.org/docs/azure/deploy/?fbclid=IwAR2eCcQT3Vsz-_epWKTZnBLeY4rUPpS8NHEzlG8MBkQZgbfcJcH59evOOts
- * https://vmware.github.io/vsphere-storage-for-kubernetes/documentation/
 
 AI/ML
 ----
@@ -82,6 +81,11 @@ Network
 ----
  * https://github.com/eldadru/ksniff?utm_sq=g6qml4o4p9
 
+Storage
+----
+ * https://rook.io
+ * https://vmware.github.io/vsphere-storage-for-kubernetes/documentation/
+
 ETC
 ----
  * https://github.com/netdata/netdata
@@ -89,4 +93,3 @@ ETC
  * https://bizcharts.net/products/bizCharts
  * https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
  * https://tech.osci.kr/linux/2014/11/13/tistory-1/
- * 
