@@ -71,6 +71,7 @@ Kubeflow
 Security
 ----
  * Kubesec https://kubesec.io
+ * [Analysis of a Kubernetes hack — Backdooring through kubelet by Alexander Urcioli](https://hakin9.org/analysis-of-a-kubernetes-hack%E2%80%8A-%E2%80%8Abackdooring-through-kubelet/?fbclid=IwAR3Zr4GlikFbF5uNjA4N4KCN-INhNKZAtZ0XTvIayO6QmM7gWgx-vH8jiOI)
  
 Network
 ----
@@ -92,3 +93,9 @@ ETC
  * https://bizcharts.net/products/bizCharts
  * https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
  * https://tech.osci.kr/linux/2014/11/13/tistory-1/
+
+Linux
+----
+ * [Explore Red Hat Enterprise Linux 8](http://lab.redhat.com/?fbclid=IwAR3rxgQV2Lyllr9xdJXnLTYzWSJMWeXJXhdSrkhC3JlFWzh8uiMElh2Ld8s)
+ * [리눅스 환경에서 꼭 알아두면 좋을 4가지 꿀팁
+[출처] [NBP 기술&경험] 리눅스 환경에서 꼭 알아두면 좋을 4가지 꿀팁|작성자 NAVER CLOUD PLATFORM](https://blog.naver.com/PostView.nhn?blogId=n_cloudplatform&logNo=221684328224&redirect=Dlog&widgetTypeCall=true&fbclid=IwAR1C7n6_e7wUeI8Y4u-F8X8RDvXv5d4n7vonCo3RZt1QCAn8p0eBqZui8hM)
