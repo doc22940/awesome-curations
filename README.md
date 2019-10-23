@@ -67,11 +67,14 @@ AI/ML
 Kubeflow
  * https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/
  * https://youtu.be/szygR7G3ZY8
+Blog
+ * http://research.sualab.com
 
 Security
 ----
  * Kubesec https://kubesec.io
  * [Analysis of a Kubernetes hack — Backdooring through kubelet by Alexander Urcioli](https://hakin9.org/analysis-of-a-kubernetes-hack%E2%80%8A-%E2%80%8Abackdooring-through-kubelet/?fbclid=IwAR3Zr4GlikFbF5uNjA4N4KCN-INhNKZAtZ0XTvIayO6QmM7gWgx-vH8jiOI)
+ * [Cloudflare 도입 후기 by RIDI](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts)
  
 Network
 ----
@@ -104,3 +107,8 @@ Linux
 API
 ----
  * https://greenboard.surge.sh/#introduction
+
+
+AWS - Certified Solutions Architect
+----
+ * https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate
