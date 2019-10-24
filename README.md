@@ -75,6 +75,7 @@ Security
  * Kubesec https://kubesec.io
  * [Analysis of a Kubernetes hack — Backdooring through kubelet by Alexander Urcioli](https://hakin9.org/analysis-of-a-kubernetes-hack%E2%80%8A-%E2%80%8Abackdooring-through-kubelet/?fbclid=IwAR3Zr4GlikFbF5uNjA4N4KCN-INhNKZAtZ0XTvIayO6QmM7gWgx-vH8jiOI)
  * [Cloudflare 도입 후기 by RIDI](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts)
+ * https://blog.atomist.com/security-of-docker-kubernetes/
  
 Network
 ----
@@ -88,7 +89,8 @@ Storage
 OpenShift
 ----
  * https://blog.openshift.com/openshift-commons-gathering-in-milan-2019-recap-slides/
-
+ * https://www.shashanksr.info/post/red-hat-openshift-okd-3-11
+ 
 ETC
 ----
  * https://github.com/netdata/netdata
@@ -97,7 +99,8 @@ ETC
  * https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
  * https://tech.osci.kr/linux/2014/11/13/tistory-1/
  * https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/
-
+ * https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/
+ 
 Linux
 ----
  * [Explore Red Hat Enterprise Linux 8](http://lab.redhat.com/?fbclid=IwAR3rxgQV2Lyllr9xdJXnLTYzWSJMWeXJXhdSrkhC3JlFWzh8uiMElh2Ld8s)
