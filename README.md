@@ -100,6 +100,7 @@ ETC
  * https://tech.osci.kr/linux/2014/11/13/tistory-1/
  * https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/
  * https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/
+ * [Red Hat Forum 2019 발표자료](http://app.engage.redhat.com/e/es?s=1795&e=3102746&elqTrackId=f0067a79762f4a11bcdc0f73a247b7f4&elq=fe72b59ad3f3447e8a961f2a732538cd&elqaid=67852&elqat=1)
  
 Linux
 ----
@@ -115,3 +116,7 @@ API
 AWS - Certified Solutions Architect
 ----
  * https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate
+
+GIT
+----
+ * https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/
