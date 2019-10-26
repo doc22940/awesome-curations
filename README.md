@@ -62,13 +62,11 @@ Operators and Controllers, What is the Difference?
  * https://medium.com/cri-o/introducing-kpod-f06109b96374
  * https://www.kubeflow.org/docs/azure/deploy/?fbclid=IwAR2eCcQT3Vsz-_epWKTZnBLeY4rUPpS8NHEzlG8MBkQZgbfcJcH59evOOts
 
-AI/ML
+AI/ML/DL
 ----
-Kubeflow
- * https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/
- * https://youtu.be/szygR7G3ZY8
-Blog
- * http://research.sualab.com
+ * Kubeflow - https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/ , https://youtu.be/szygR7G3ZY8
+ * Sualab - http://research.sualab.com
+ * DL BootCamp - https://fullstackdeeplearning.com/march2019
 
 Security
 ----
