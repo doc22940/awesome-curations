@@ -67,6 +67,7 @@ AI/ML/DL
  * Kubeflow - https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/ , https://youtu.be/szygR7G3ZY8
  * Sualab - http://research.sualab.com
  * DL BootCamp - https://fullstackdeeplearning.com/march2019
+ * [Introduction to Deep Learning / STAT 157, UC Berkeley, Spring, 2019](https://courses.d2l.ai/berkeley-stat-157/index.html)
 
 Security
 ----
