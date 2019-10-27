@@ -75,6 +75,7 @@ Security
  * [Analysis of a Kubernetes hack — Backdooring through kubelet by Alexander Urcioli](https://hakin9.org/analysis-of-a-kubernetes-hack%E2%80%8A-%E2%80%8Abackdooring-through-kubelet/?fbclid=IwAR3Zr4GlikFbF5uNjA4N4KCN-INhNKZAtZ0XTvIayO6QmM7gWgx-vH8jiOI)
  * [Cloudflare 도입 후기 by RIDI](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts)
  * https://blog.atomist.com/security-of-docker-kubernetes/
+ * https://k8s.af
  
 Network
 ----
