@@ -25,6 +25,7 @@ Blogs
 * https://lascrea.tistory.com/category/Kubernetes
 * https://learnk8s.io/blog/
 * https://zzsza.github.io
+* https://reoim.tistory.com/entry/클알못에서-AWS-이직까지
 
 CKA
 ----
