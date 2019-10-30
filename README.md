@@ -69,6 +69,7 @@ AI/ML/DL
  * Sualab - http://research.sualab.com
  * DL BootCamp - https://fullstackdeeplearning.com/march2019
  * [Introduction to Deep Learning / STAT 157, UC Berkeley, Spring, 2019](https://courses.d2l.ai/berkeley-stat-157/index.html)
+ * https://speakerdeck.com/wonseokjung/how-to-become-a-datascientist
 
 Security
 ----
