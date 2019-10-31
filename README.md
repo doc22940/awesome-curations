@@ -126,3 +126,8 @@ GIT
 AWS - EKS
 ----
  * https://eksworkshop.com
+
+Go
+----
+ * https://hackernoon.com/5-advanced-go-testing-techniques-7199b686b6c1
+ * https://about.sourcegraph.com/go/advanced-testing-in-go
