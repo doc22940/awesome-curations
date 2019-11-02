@@ -103,6 +103,7 @@ ETC
  * https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/
  * https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/
  * [Red Hat Forum 2019 발표자료](http://app.engage.redhat.com/e/es?s=1795&e=3102746&elqTrackId=f0067a79762f4a11bcdc0f73a247b7f4&elq=fe72b59ad3f3447e8a961f2a732538cd&elqaid=67852&elqat=1)
+ * https://quiet.github.io/quiet-js/
  
 Linux
 ----
@@ -131,3 +132,7 @@ Go
 ----
  * https://hackernoon.com/5-advanced-go-testing-techniques-7199b686b6c1
  * https://about.sourcegraph.com/go/advanced-testing-in-go
+
+ERD
+----
+ * https://dbdiagram.io/d
