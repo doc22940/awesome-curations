@@ -118,17 +118,15 @@ API
  * https://greenboard.surge.sh/#introduction
 
 
-AWS - Certified Solutions Architect
+AWS
 ----
  * https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate
+ * KMS https://bluese05.tistory.com/71
+ * EKS https://eksworkshop.com
 
 GIT
 ----
  * https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/
- 
-AWS - EKS
-----
- * https://eksworkshop.com
 
 Go
 ----
