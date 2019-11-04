@@ -27,6 +27,7 @@ Blogs
 * https://zzsza.github.io
 * https://reoim.tistory.com/entry/클알못에서-AWS-이직까지
 * https://ddii.dev
+* https://rinae.dev
 
 CKA
 ----
