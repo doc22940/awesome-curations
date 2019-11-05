@@ -86,6 +86,7 @@ Network
 ----
  * https://github.com/eldadru/ksniff?utm_sq=g6qml4o4p9
  * http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-https/
+ * https://junebuug.github.io/2019-10-08/ssl
 
 Storage
 ----
