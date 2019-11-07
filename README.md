@@ -131,6 +131,7 @@ AWS
 GIT
 ----
  * https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/
+ * https://gitea.io/en-us/
 
 Go
 ----
