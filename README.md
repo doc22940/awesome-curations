@@ -64,6 +64,7 @@ Operators and Controllers, What is the Difference?
  * [Podman](https://medium.com/@ganeshmani009/replacing-docker-with-podman-power-of-podman-cloudnweb-23cfb7541538)
  * https://medium.com/cri-o/introducing-kpod-f06109b96374
  * https://www.kubeflow.org/docs/azure/deploy/?fbclid=IwAR2eCcQT3Vsz-_epWKTZnBLeY4rUPpS8NHEzlG8MBkQZgbfcJcH59evOOts
+ * https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02
 
 AI/ML/DL
 ----
