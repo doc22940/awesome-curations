@@ -75,7 +75,8 @@ AI/ML/DL
  * https://speakerdeck.com/wonseokjung/how-to-become-a-datascientist
  * https://bobsstudy.blogspot.com/2019/07/driverless-ai-recipes.html
  * https://www.docker.com/blog/depend-on-docker-for-kubeflow/
-
+ * https://course.elementsofai.com
+ 
 Security
 ----
  * Kubesec https://kubesec.io
