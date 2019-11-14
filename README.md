@@ -134,6 +134,7 @@ AWS
  * KMS https://bluese05.tistory.com/71
  * EKS https://eksworkshop.com
  * https://tutorialsdojo.com/aws-cheat-sheets/
+ * https://blog.outsider.ne.kr/1465
 
 GIT
 ----
