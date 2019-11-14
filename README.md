@@ -102,6 +102,7 @@ OpenShift
  * https://blog.openshift.com/openshift-commons-gathering-in-milan-2019-recap-slides/
  * https://www.shashanksr.info/post/red-hat-openshift-okd-3-11
  * https://access.redhat.com/solutions/3821042
+ * https://access.redhat.com/articles/3716881
 
 ETC
 ----
