@@ -136,6 +136,7 @@ AWS
  * EKS https://eksworkshop.com
  * https://tutorialsdojo.com/aws-cheat-sheets/
  * https://blog.outsider.ne.kr/1465
+ * https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-KSDNs4nfg5ikp6yBN9l/exam_feedback
 
 GIT
 ----
