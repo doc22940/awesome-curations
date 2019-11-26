@@ -66,3 +66,4 @@ Operators and Controllers, What is the Difference?
  * https://www.kubeflow.org/docs/azure/deploy/?fbclid=IwAR2eCcQT3Vsz-_epWKTZnBLeY4rUPpS8NHEzlG8MBkQZgbfcJcH59evOOts
  * https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02
  * https://medium.com/dtevangelist/마이크로-서비스를-사용하지-않는-경우-cfaae59e4fcc 
+ * https://github.com/vmware-tanzu/crash-diagnostics?utm_sq=g89gldqxly
