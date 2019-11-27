@@ -67,3 +67,13 @@ Operators and Controllers, What is the Difference?
  * https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02
  * https://medium.com/dtevangelist/마이크로-서비스를-사용하지-않는-경우-cfaae59e4fcc 
  * https://github.com/vmware-tanzu/crash-diagnostics?utm_sq=g89gldqxly
+ 
+ ● 지금까지 저희가 해온 일 
+- Kubernetes 기반 Cloud Native App Platform  https://www.youtube.com/watch?v=4Im7a-Zcct8
+- 대규모 Kubernetes 클러스터 구축기 https://engineering.linecorp.com/ko/blog/building-large-kubernetes-cluster/
+- LINE 엔지니어를 지원하는 CaaS 기반 서비스의 현재와 미래 https://engineering.linecorp.com/ko/blog/japan-container-day-v18-12-report/
+- LINE에서 Kubernetes를 쓰는 방법과 그 동안 배운 것들 https://www.youtube.com/watch?v=IEfjWANS_Vo&feature=youtu.be
+- 넘치지도, 부족하지도 않는 Kubernetes 다루기 
+- Hard Multitenancy in Kubernetes https://www.youtube.com/watch?v=zTCztH2S8d0&feature=youtu.be
+- Kubernetes Network Environment for zero downtime service https://www.youtube.com/watch?v=x8M8OtGrEp0&feature=youtu.be
+- Connect services securely across multi-cloud environments https://www.youtube.com/watch?v=x8M8OtGrEp0&feature=youtu.be&t=1517
