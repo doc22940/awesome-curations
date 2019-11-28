@@ -68,6 +68,10 @@ Operators and Controllers, What is the Difference?
  * https://medium.com/dtevangelist/마이크로-서비스를-사용하지-않는-경우-cfaae59e4fcc 
  * https://github.com/vmware-tanzu/crash-diagnostics?utm_sq=g89gldqxly
  
+ 
+ ### Istio
+ * https://arisu1000.tistory.com
+ 
  ● 지금까지 저희가 해온 일 
 - Kubernetes 기반 Cloud Native App Platform  https://www.youtube.com/watch?v=4Im7a-Zcct8
 - 대규모 Kubernetes 클러스터 구축기 https://engineering.linecorp.com/ko/blog/building-large-kubernetes-cluster/
