@@ -67,6 +67,7 @@ Operators and Controllers, What is the Difference?
  * https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02
  * https://medium.com/dtevangelist/마이크로-서비스를-사용하지-않는-경우-cfaae59e4fcc 
  * https://github.com/vmware-tanzu/crash-diagnostics?utm_sq=g89gldqxly
+ * https://medium.com/@keyhyuk.kim/hyper-v-환경에서-쿠버네티스-master-worker-클러스터-구축하기-b7aead20132f
  
  
  ### Istio
