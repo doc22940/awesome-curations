@@ -28,6 +28,7 @@ Blogs
 * https://reoim.tistory.com/entry/클알못에서-AWS-이직까지
 * https://ddii.dev
 * https://rinae.dev
+* https://m.blog.naver.com/PostList.nhn?blogId=alice_k106&currentPage=7
 
 CKA
 ----
