@@ -38,6 +38,7 @@ CKA
   * https://www.notion.so/CKA-CKAD-d3beefd142db4cd48b60806eab30bdd8
   * https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
   * [CKAD](https://github.com/dgkanatsios/CKAD-exercises)
+ * https://engineering.linecorp.com/ko/blog/japan-container-day-v18-12-report/
 
 ETC
 ----
