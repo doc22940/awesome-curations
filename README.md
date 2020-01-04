@@ -1,9 +1,3 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-작성 원칙
-----
- * 없음
-
 Lectures
 ----
 * [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/) 🇺🇸
@@ -72,6 +66,7 @@ Operators and Controllers, What is the Difference?
  * https://medium.com/@keyhyuk.kim/hyper-v-환경에서-쿠버네티스-master-worker-클러스터-구축하기-b7aead20132f
  * https://kubernetes.io/blog/2019/11/26/develop-a-kubernetes-controller-in-java/?fbclid=IwAR2P0Xh2P16mA5uQqSBtkjZ4rUk-hZgG0ieLFqHzrfOvJDJeUkj2BP4xQso
  * https://srcco.de/posts/web-service-on-kubernetes-production-checklist-2019.html
+ * https://ramitsurana.github.io/awesome-kubernetes/
  
  ### Istio
  * https://arisu1000.tistory.com
