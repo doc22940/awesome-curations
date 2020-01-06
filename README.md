@@ -23,6 +23,7 @@ Blogs
 * https://ddii.dev
 * https://rinae.dev
 * https://m.blog.naver.com/PostList.nhn?blogId=alice_k106&currentPage=7
+* https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/
 
 CKA
 ----
