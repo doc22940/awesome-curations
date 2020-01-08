@@ -68,6 +68,7 @@ Operators and Controllers, What is the Difference?
  * https://kubernetes.io/blog/2019/11/26/develop-a-kubernetes-controller-in-java/?fbclid=IwAR2P0Xh2P16mA5uQqSBtkjZ4rUk-hZgG0ieLFqHzrfOvJDJeUkj2BP4xQso
  * https://srcco.de/posts/web-service-on-kubernetes-production-checklist-2019.html
  * https://ramitsurana.github.io/awesome-kubernetes/
+ * https://managedkube.com/kubernetes/trace/ingress/service/port/not/matching/pod/k8sbot/2019/02/13/trace-ingress.html?utm_sq=g0va7cm7qb
  
  ### Istio
  * https://arisu1000.tistory.com
