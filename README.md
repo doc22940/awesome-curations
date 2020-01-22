@@ -73,6 +73,7 @@ Operators and Controllers, What is the Difference?
  * https://tanka.dev
  * https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918
  * https://spark.apache.org/docs/3.0.0-preview/running-on-kubernetes.html
+ * https://virtual-kubelet.io/?fbclid=IwAR3C1SCXUbWcWHwwi0i70Zc2cEH-1tOADo4X8g75FTTMvoXj9oqytuuGmRI
  
  ### Istio
  * https://arisu1000.tistory.com
