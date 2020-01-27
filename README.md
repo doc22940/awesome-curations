@@ -76,6 +76,7 @@ Operators and Controllers, What is the Difference?
  * https://virtual-kubelet.io/?fbclid=IwAR3C1SCXUbWcWHwwi0i70Zc2cEH-1tOADo4X8g75FTTMvoXj9oqytuuGmRI
  * https://benghak.github.io/2020-01-09-ML_chapter_01/
  * https://n3015m.tistory.com/m/350
+ * http://www.kangwoo.kr/2019/12/02/kubernetes-커맨드-라인-툴/?fbclid=IwAR0kuPYN11wAfd70-H75fn5MQc4MIdbyYy3VS1ejFDhLq4wtOXTZMEEcvtc
  
  ### Istio
  * https://arisu1000.tistory.com
