@@ -79,6 +79,7 @@ Operators and Controllers, What is the Difference?
  * http://www.kangwoo.kr/2019/12/02/kubernetes-커맨드-라인-툴/?fbclid=IwAR0kuPYN11wAfd70-H75fn5MQc4MIdbyYy3VS1ejFDhLq4wtOXTZMEEcvtc
  * https://www.44bits.io/ko/keyword/linux-container
  * https://learnk8s.io/a/troubleshooting-kubernetes.pdf?fbclid=IwAR39CH-9fZqKRbjowfUuIA_P2SwItbLnKXGyzFnnzECEDk92hGU-5fl4Khw
+ * https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html
  
  ### Istio
  * https://arisu1000.tistory.com
