@@ -25,6 +25,7 @@ Blogs
 * https://m.blog.naver.com/PostList.nhn?blogId=alice_k106&currentPage=7
 * https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/
 * https://woohhan.github.io/study/k8s_networking_deep_diving/
+* https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/
 
 CKA
 ----
