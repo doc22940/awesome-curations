@@ -83,6 +83,7 @@ Operators and Controllers, What is the Difference?
  * https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html
  * http://www.skinfosec.com/liveFile/eqstinsight-file/happyFileDown.do?fileName=20190621080345E90N.pdf&orgFileName=2019_클라우드보안가이드라인_Docker%26amp;Kubernetes_fv.pdf&boardSeq=927
  * https://www.techrepublic.com/article/how-to-install-the-podman-container-engine-on-centos-8/
+ * https://minic.run
  
  ### Istio
  * https://arisu1000.tistory.com
