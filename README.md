@@ -84,6 +84,7 @@ Operators and Controllers, What is the Difference?
  * http://www.skinfosec.com/liveFile/eqstinsight-file/happyFileDown.do?fileName=20190621080345E90N.pdf&orgFileName=2019_클라우드보안가이드라인_Docker%26amp;Kubernetes_fv.pdf&boardSeq=927
  * https://www.techrepublic.com/article/how-to-install-the-podman-container-engine-on-centos-8/
  * https://minic.run
+ * https://qiita.com/leechungkyu/items/50c3d96a69239a7e4f7f?fbclid=IwAR1IN-QydyzZ2bfczncC9AtxWubmpEZtR7mW2Aq7yJL7CJUcRZOTwfMjOag
  
  ### Istio
  * https://arisu1000.tistory.com
