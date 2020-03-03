@@ -85,6 +85,7 @@ Operators and Controllers, What is the Difference?
  * https://www.techrepublic.com/article/how-to-install-the-podman-container-engine-on-centos-8/
  * https://minic.run
  * https://qiita.com/leechungkyu/items/50c3d96a69239a7e4f7f?fbclid=IwAR1IN-QydyzZ2bfczncC9AtxWubmpEZtR7mW2Aq7yJL7CJUcRZOTwfMjOag
+ * https://arisu1000.tistory.com/27861
  
  ### Istio
  * https://arisu1000.tistory.com
