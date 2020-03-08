@@ -7,12 +7,16 @@ Kaggle
  * https://kaggle-kr.tistory.com/32?fbclid=IwAR3Hjd9j2MWofbaGrUUPRuoVsgTIiVFctPdR81YaHvASZBMbSJozwMvYQcE#recentComments
  * https://subinium.github.io/kaggle-tips/
 
+Lecturew
+----
+ * http://introtodeeplearning.com/
+ * DL BootCamp - https://fullstackdeeplearning.com/march2019
+ * [Introduction to Deep Learning / STAT 157, UC Berkeley, Spring, 2019](https://courses.d2l.ai/berkeley-stat-157/index.html)
+
 AI/ML/DL
 ----
  * Kubeflow - https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/ , https://youtu.be/szygR7G3ZY8
  * Sualab - http://research.sualab.com
- * DL BootCamp - https://fullstackdeeplearning.com/march2019
- * [Introduction to Deep Learning / STAT 157, UC Berkeley, Spring, 2019](https://courses.d2l.ai/berkeley-stat-157/index.html)
  * https://speakerdeck.com/wonseokjung/how-to-become-a-datascientist
  * https://bobsstudy.blogspot.com/2019/07/driverless-ai-recipes.html
  * https://www.docker.com/blog/depend-on-docker-for-kubeflow/
