@@ -3,11 +3,12 @@ Lectures
 * [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/) 🇺🇸
 * [Quick guide to Kubernetes basics from IBM](https://www.ibm.com/cloud/learn/kubernetes) 🇺🇸
 * [컨테이너 기반 가상화 플랫폼 ‘도커(Doker)’의 이해](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=125) 🇰🇷
-* [컨테이너 오케스트레이션 쿠버네티스 살펴보기](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTu31zyb_QelQMaqFGgASA) 🇰🇷⭐️
+* ⭐️[컨테이너 오케스트레이션 쿠버네티스 살펴보기](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTu31zyb_QelQMaqFGgASA) 🇰🇷
   * T아카데미 강의 https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=162 
-* [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/ ) 🇺🇸⭐️
+* ⭐️[Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/ ) 🇺🇸
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) 🇺🇸
 * [Kubernetes Official Tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) 🇺🇸
+* https://github.com/hongkunyoo/k8s-workshop
 
 Blogs
 ----
