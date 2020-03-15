@@ -6,6 +6,7 @@ Kaggle
  * https://cojette.github.io/carrie_interview/
  * https://kaggle-kr.tistory.com/32?fbclid=IwAR3Hjd9j2MWofbaGrUUPRuoVsgTIiVFctPdR81YaHvASZBMbSJozwMvYQcE#recentComments
  * https://subinium.github.io/kaggle-tips/
+ * https://zzsza.github.io/data/2018/08/30/google-colab/
 
 Lecturew
 ----
