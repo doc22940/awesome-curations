@@ -89,6 +89,7 @@ Operators and Controllers, What is the Difference?
  * https://arisu1000.tistory.com/27861
  * https://itnext.io/kubernetes-multi-cluster-networking-cilium-cluster-mesh-bca0f5367d84
  * https://kind.sigs.k8s.io/docs/design/initial/
+ * https://medium.com/better-programming/anatomy-of-kubernetes-cluster-24d88f77cf27
  
  ### Istio
  * https://arisu1000.tistory.com
