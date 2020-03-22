@@ -3,3 +3,4 @@
 * https://medium.com/@soeunlee/나의-영어-고군분투-그리고-새로운-시작-9befef6f3e07
 * https://meet.jit.si
 * https://www.mockaroo.com
+* https://www.boredapi.com/
