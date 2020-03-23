@@ -5,3 +5,4 @@
 * https://www.mockaroo.com
 * https://www.boredapi.com/
 * https://www.44bits.io/ko/post/easy-deploy-with-docker
+* code-server https://eungbean.github.io/2019/11/04/remote-vscode/
