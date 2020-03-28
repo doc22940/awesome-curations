@@ -29,3 +29,4 @@ AI/ML/DL
  * https://bcho.tistory.com/1354 XGboost
  * https://news.hada.io/topic?id=1259
  * https://benghak.github.io/2020-01-09-ML_chapter_01/?fbclid=IwAR2dL_qh-0OevcLWZjZgD3BDJ_q5sXb-pitQnvZeHKn50xcCamduilubFSE
+ * https://landscape.lfai.foundation/format=card-mode&grouping=no&sort=stars
