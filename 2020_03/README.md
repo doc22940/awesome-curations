@@ -8,3 +8,4 @@
 * code-server https://eungbean.github.io/2019/11/04/remote-vscode/
 * https://devopsdirective.com/posts/2020/03/always-on-minikube/
 * https://github.com/meilisearch/MeiliSearch
+* https://www.talkyard.io/
