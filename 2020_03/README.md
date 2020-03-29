@@ -9,3 +9,4 @@
 * https://devopsdirective.com/posts/2020/03/always-on-minikube/
 * https://github.com/meilisearch/MeiliSearch
 * https://www.talkyard.io/
+* Resume https://news.hada.io/topic?id=1791
