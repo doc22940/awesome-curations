@@ -10,3 +10,4 @@
 * https://github.com/meilisearch/MeiliSearch
 * https://www.talkyard.io/
 * Resume https://news.hada.io/topic?id=1791
+* https://www.metabase.com/
