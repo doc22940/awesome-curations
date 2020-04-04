@@ -6,3 +6,4 @@
  * https://medium.com/dtevangelist
  * https://infra.app/
  * https://octant.dev/
+ * https://lascrea.tistory.com/ HAproxy
