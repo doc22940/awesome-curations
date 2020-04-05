@@ -11,3 +11,9 @@
  * https://brunch.co.kr/magazine/linux
  * https://litmuschaos.io/
  * https://jojoldu.tistory.com/
+
+#### TCP/IP Issue
+ * http://docs.likejazz.com/time-wait/
+ * https://brunch.co.kr/@alden/19
+ * https://brunch.co.kr/@peter5236/9
+ 
