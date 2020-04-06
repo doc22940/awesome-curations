@@ -14,7 +14,8 @@
  * https://velog.io/@han811/2020-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8C%80%ED%9A%8C-%EB%AA%A8%EC%9D%8C
  * Kubeflow https://lsjsj92.tistory.com/580
  * Algo https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary
-
+ * https://datadoctorblog.com/2020/03/31/COVID19-Johns-Hopkins-data-download/
+ 
 #### TCP/IP Issue
  * http://docs.likejazz.com/time-wait/
  * https://brunch.co.kr/@alden/19
