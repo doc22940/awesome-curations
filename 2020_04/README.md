@@ -19,6 +19,7 @@
  * https://aws-hyoh.tistory.com/m
  * http://it.serverchk.com
  * https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/
+ * https://developers.google.com/machine-learning/crash-course?hl=ko&fbclid=IwAR3Abs--7In34Le8AfzLkB3bqzNt_ZryKBVt0j9UiC7KTSrvk-qAYJ2bi_c
  
 #### TCP/IP Issue
  * http://docs.likejazz.com/time-wait/
