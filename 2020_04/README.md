@@ -16,6 +16,9 @@
  * Algo https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary
  * https://datadoctorblog.com/2020/03/31/COVID19-Johns-Hopkins-data-download/
  * https://eungbean.github.io/2019/11/11/Docker-for-ai/
+ * https://aws-hyoh.tistory.com/m
+ * http://it.serverchk.com
+ * https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/
  
 #### TCP/IP Issue
  * http://docs.likejazz.com/time-wait/
