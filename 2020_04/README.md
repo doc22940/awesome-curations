@@ -25,6 +25,7 @@
  * https://brunch.co.kr/@jowlee/114
  * https://brunch.co.kr/@hvnpoet/96 MNIST
  * https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-3-package-manager?utm_source=DigitalOcean_Newsletter HELM
+ * https://fastthread.io/
  
 #### TCP/IP Issue
  * http://docs.likejazz.com/time-wait/
