@@ -23,6 +23,7 @@
  * https://news.hada.io/topic?id=1841
  * https://news.hada.io/topic?id=1846
  * https://brunch.co.kr/@jowlee/114
+ * https://brunch.co.kr/@hvnpoet/96 MNIST
  
 #### TCP/IP Issue
  * http://docs.likejazz.com/time-wait/
