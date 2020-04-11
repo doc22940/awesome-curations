@@ -26,6 +26,7 @@
  * https://brunch.co.kr/@hvnpoet/96 MNIST
  * https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-3-package-manager?utm_source=DigitalOcean_Newsletter HELM
  * https://fastthread.io/
+ * https://www.virten.net/2020/04/free-esxi-7-0-how-to-download-and-get-license-keys/
  
 #### TCP/IP Issue
  * http://docs.likejazz.com/time-wait/
