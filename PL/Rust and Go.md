@@ -20,3 +20,6 @@
  * https://www.wezm.net/technical/2019/10/useful-command-line-tools/
  * https://curl.trillworks.com/#go
  * https://gitlab.com/timvisee/ffsend
+
+----
+ * https://gobyexample.com/
