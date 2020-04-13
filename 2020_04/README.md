@@ -44,6 +44,7 @@
  
 #### Articles
  * https://simonjisu.github.io/datascience/2020/04/12/questionofwhy.html
+ * https://lsjsj92.tistory.com/579?category=891065
 
 #### Best
  * https://evan-moon.github.io/
