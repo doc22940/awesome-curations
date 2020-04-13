@@ -1,4 +1,5 @@
- * https://www.server-world.info/en/
+#### Tech
+* https://www.server-world.info/en/
  * https://www.logicmonitor.com/blog/tracking-down-failed-tcp-connections-and-rst-packets
  * https://bencane.com/2014/10/13/quick-and-practical-reference-for-tcpdump/
  * https://www.virten.net/2020/04/vmware-vsphere-7-0-ga-download-links-available/
@@ -30,12 +31,16 @@
  * GITLAB https://velog.io/@wickedev/Gitlab-CICD-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-bljzphditt 
  * https://github.com/wagoodman/dive
  * https://learnxinyminutes.com/
- 
+ * https://codingdog.tistory.com/entry/linux-grep-%EB%AA%85%EB%A0%B9%EC%96%B4-%ED%8C%A8%ED%84%B4%EB%A7%8C-%EC%9E%98-%EC%9E%91%EC%84%B1%ED%95%98%EB%A9%B4-%EA%BD%A4-%EA%B0%95%EB%A0%A5%ED%95%98%EB%8B%A4
+ * https://velog.io/@underlier12/OS-01-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98-%EC%97%AD%ED%95%A0
+
 #### TCP/IP Issue
  * http://docs.likejazz.com/time-wait/
  * https://brunch.co.kr/@alden/19
  * https://brunch.co.kr/@peter5236/9
  
+#### Articles
+ * https://simonjisu.github.io/datascience/2020/04/12/questionofwhy.html
 
 #### Best
  * https://evan-moon.github.io/
