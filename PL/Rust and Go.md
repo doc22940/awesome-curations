@@ -21,6 +21,12 @@
  * https://curl.trillworks.com/#go
  * https://gitlab.com/timvisee/ffsend
  * https://marsettler.com/the-zen-of-go/
+ * https://cheats.rs/
+ * https://github.com/bayard-search/bayard
 
 ----
  * https://gobyexample.com/
+
+----
+ * https://news.hada.io/topic?id=793
+ * https://rust-cli.github.io/book/index.html
