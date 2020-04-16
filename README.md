@@ -91,6 +91,7 @@ Operators and Controllers, What is the Difference?
  * https://kind.sigs.k8s.io/docs/design/initial/
  * https://medium.com/better-programming/anatomy-of-kubernetes-cluster-24d88f77cf27
  * https://k8slens.dev/?fbclid=IwAR0hp1Um9fcFN_k2K0qBdWTzNb0RY7Y_sobzVNTGWcfF5GabHDLPftKMLe4
+ * https://killer.sh
  
  ### Istio
  * https://arisu1000.tistory.com
