@@ -35,6 +35,12 @@
  * https://velog.io/@underlier12/OS-01-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98-%EC%97%AD%ED%95%A0
  * https://blog.cloudflare.com/http-3-vs-http-2/
  * HAproxy https://www.haproxyconf.com/
+ * https://brunch.co.kr/@lars#articles
+ * HDD 장애 분석 https://brunch.co.kr/@lars/3?fbclid=IwAR1eblh_SBLNkhDiZsI7j-bVtviG_8yGmBET2UdCJd5d7h7eG-cc762qZF0
+ * https://seblog.mirr4u.com
+ * PID 1 - http://0pointer.net/blog/projects/systemd.html?fbclid=IwAR1wdi534y5vOfkzPypPC2vAOdY-ERr-ODcEnFsxfnfhfjZJKZ1vjSscm_k
+ * Linux Boot - https://www.golinuxcloud.com/linux-boot-process-explained-step-detail/
+ * ML - https://vas3k.com/blog/machine_learning/
 
 #### Data Sciences
  * https://theorydb.github.io/dev/2020/04/12/dev-competition-how-to-become-data-scientist/
