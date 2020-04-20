@@ -7,3 +7,8 @@ Interview
  * https://docs.google.com/document/d/1WE1V4uczxavqLY-nyr3qNqCxqzoOf8Vg6Z-Lf0c3DwU
  * https://github.com/JaeYeopHan/Interview_Question_for_Beginner
  * http://www.looah.com/article/view/2070
+
+Career
+----
+ * https://geonlee.tistory.com/m/9
+ 
