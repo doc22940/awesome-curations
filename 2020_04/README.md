@@ -41,6 +41,7 @@
  * PID 1 - http://0pointer.net/blog/projects/systemd.html?fbclid=IwAR1wdi534y5vOfkzPypPC2vAOdY-ERr-ODcEnFsxfnfhfjZJKZ1vjSscm_k
  * Linux Boot - https://www.golinuxcloud.com/linux-boot-process-explained-step-detail/
  * ML - https://vas3k.com/blog/machine_learning/
+ * News - https://seungdols.tistory.com/848
 
 #### Data Sciences
  * https://theorydb.github.io/dev/2020/04/12/dev-competition-how-to-become-data-scientist/
